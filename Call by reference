@@ -9,7 +9,7 @@ int funct(int *n)
  int main()
 {
  int n=30;
- printf("This is designed by Nikhil Bhardwaj\n");
+ printf("This is designed by akash chandnani\n");
  printf("%d\n", funct(&n));
  printf("%d\n", n);
  return 0;
